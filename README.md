@@ -2,7 +2,7 @@
 
 This project includes many technologies and structures;
 
-POM Architecture
-Appium Java
-TestNG
-Selenium
+-POM Architecture
+-Appium Java
+-TestNG
+-Selenium
