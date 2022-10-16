@@ -27,4 +27,4 @@ NodeJS Installation -> https://nodejs.org/en/download/
 
 ### Sample mobil app:
 
-UIKiCatalog.app
+General-Store.apk
