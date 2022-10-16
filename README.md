@@ -26,6 +26,6 @@ Android SDK platforms & SDK tools -> https://developer.android.com/studio/intro/
 NodeJS Installation -> https://nodejs.org/en/download/
 
 
-### Sample web application:
+### Sample mobil app:
 
 General-Store.apk
